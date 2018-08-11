@@ -3,7 +3,7 @@ matplotlib==2.0.2
 cython
 rpy2
 pandas
-tensorlflow
+tensorflow-gpu
 
 jupyter-tensorboard
 jupyterlab_latex
